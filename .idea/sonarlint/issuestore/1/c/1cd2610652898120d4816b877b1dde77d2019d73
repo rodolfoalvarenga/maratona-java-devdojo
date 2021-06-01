@@ -1,35 +1,0 @@
-
-Y
-java:S1854">Remove this useless assignment to local variable "idadeShort".(â²¸Òýÿÿÿÿ
-S
-java:S1854
-"=Remove this useless assignment to local variable "idadeByte".(â²§Ñ
-V
-java:S1854"ARemove this useless assignment to local variable "salarioDouble".(Æžü+
-D
-java:S6212"/Declare this local variable with "var" instead.(Æžü+
-J
-java:S6212	"/Declare this local variable with "var" instead.(¸‡´äúÿÿÿÿ
-J
-java:S6212"/Declare this local variable with "var" instead.(ŠŸ¦‰øÿÿÿÿ
-J
-java:S6212"/Declare this local variable with "var" instead.(œÏ×Äùÿÿÿÿ
-E
-java:S6212"/Declare this local variable with "var" instead.(žŒØó
-E
-java:S6212"/Declare this local variable with "var" instead.(±–‰è
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÜè»
-N	java:S106"9Replace this use of System.out or System.err by a logger.(©þŽÆ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(éºì°
-N	java:S106"9Replace this use of System.out or System.err by a logger.(úõª©
-S	java:S106"9Replace this use of System.out or System.err by a logger.(²»‹Úüÿÿÿÿ
-U	java:S106"9Replace this use of System.out or System.err by a logger.(‚…ë»8®´ê—œ/
-G
-java:S1481"2Remove this unused "salarioDouble" local variable.(Æžü+
-D
-java:S1481
-".Remove this unused "idadeByte" local variable.(â²§Ñ
-J
-java:S1481"/Remove this unused "idadeShort" local variable.(â²¸Òýÿÿÿÿ
-J
-java:S1481"/Remove this unused "verdadeiro" local variable.(ŠŸ¦‰øÿÿÿÿ
