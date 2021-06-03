@@ -1,0 +1,41 @@
+
+J
+java:S6212"/Declare this local variable with "var" instead.(ÉêÉšúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(úòÓ¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ô¢§øÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(Ûßûçùÿÿÿÿ
+M	java:S106
+"9Replace this use of System.out or System.err by a logger.(»¾§:
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂÛõøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü’£
+N	java:S106"9Replace this use of System.out or System.err by a logger.(œ²Ë
+a
+java:S1764"KCorrect one of the identical sub-expressions on both sides of operator "!="(û‰»Œ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½—×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(´—´ò
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(¼†¦ıüÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ûö®º
+S	java:S106""9Replace this use of System.out or System.err by a logger.(÷ßä«üÿÿÿÿ
+J
+java:S6212%"/Declare this local variable with "var" instead.(°˜ì¢øÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ÛÎ•üÿÿÿÿ
+J
+java:S6212&"/Declare this local variable with "var" instead.(¨çºÄşÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(ó‘Æ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(¡ï¯ı
+J
+java:S6212."/Declare this local variable with "var" instead.(ë‰ĞÁıÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(ÆÓÂ£üÿÿÿÿ
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(õ¦Ë´
+J
+java:S6212="/Declare this local variable with "var" instead.(¸¼¾ÿøÿÿÿÿ
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(ş¨õàÿÿÿÿÿ
+Q
+java:S6212E"/Declare this local variable with "var" instead.(´Èïâùÿÿÿÿ8ˆÔÂÎœ/
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(í¤É¶ÿÿÿÿÿ8¶¨ÃÎœ/
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(”Ë”–8šŠÇÎœ/
+L
+java:S6212I"/Declare this local variable with "var" instead.(óŠñš8ÆÍÎœ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(¡ÍæÎÿÿÿÿÿ8ÍÍÎœ/
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(ô–ö8•óÍÎœ/

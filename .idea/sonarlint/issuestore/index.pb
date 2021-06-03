@@ -5,3 +5,7 @@ q
 Asrc/academy/devdojo/maratonajava/introducao/Aula01OlaDevDojo.java,5/6/56cb3c2930b2eb42fc8108b8abbe09f08cc47feb
 
 Osrc/academy/devdojo/maratonajava/introducao/Aula03TiposPrimitivosExercicio.java,c/5/c5a1e9ce5cba005afabcdb583bb3dae8120d52ae
+v
+Fsrc/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java,1/c/1cd2610652898120d4816b877b1dde77d2019d73
+q
+Asrc/academy/devdojo/maratonajava/introducao/Aula04Operadores.java,8/a/8a78d9e68f6e03eb2c9df0d5f4c390a7561a1d4c
