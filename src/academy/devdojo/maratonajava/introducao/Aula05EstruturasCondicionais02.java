@@ -18,5 +18,9 @@ public class Aula05EstruturasCondicionais02 {
         }
 
         System.out.println(categoria);
+
+        // não é recomendado agrupar operador ternário
+        String categoriaTernario = idade < 15 ? "Categoria Infantil" : idade >=15 && idade < 18 ? "Categoria Juvenil" : "Categoria Adulto";
+        System.out.println(categoriaTernario);
     }
 }
