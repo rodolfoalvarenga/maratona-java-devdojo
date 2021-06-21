@@ -1,0 +1,37 @@
+
+…
+java:S1192"hDefine a constant instead of duplicating this literal "Dentro de algo que nunca deve ser feito" 3 times.(°úç8ìù‹’/
+`
+java:S2583"DChange this condition so that it does not always evaluate to "false"(æ¬v8ØÏ‚’/
+f
+java:S2583%"DChange this condition so that it does not always evaluate to "false"(Û™Ñûÿÿÿÿ8ÛÓ’/
+T
+java:S2589"7Remove this expression which always evaluates to "true"(ÌÕ¤Î8Ï¬…’/
+J
+java:S1121".Extract the assignment out of this expression.(æ¬v8ØÏ‚’/
+K
+java:S1121".Extract the assignment out of this expression.(ÌÕ¤Î8Ğ¬…’/
+Q
+java:S1854"5Remove this useless assignment to local variable "c".(æ¬v8ÛÏ‚’/
+R
+java:S1854"5Remove this useless assignment to local variable "d".(ÌÕ¤Î8Ó¬…’/
+E
+java:S6212"/Declare this local variable with "var" instead.(µÃ–
+Q	java:S125"<This block of commented-out lines of code should be removed.(ö·¦
+I
+java:S1125"'Remove the unnecessary boolean literal.(ÒÑÄıûÿÿÿÿ8§÷ÂŞ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÛËœ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÙı
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õÙı8°âò‘/
+K
+java:S6212"/Declare this local variable with "var" instead.(ÓºÁ8ßÏ‚’/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°úç8àÏ‚’/
+Q
+java:S6212"/Declare this local variable with "var" instead.(çÔÊÿÿÿÿÿ8Ö¬…’/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(°úç8Ìü…’/
+Q
+java:S6212$"/Declare this local variable with "var" instead.(“†‰¥úÿÿÿÿ8­ÇŠ’/
+I
+java:S1125%"'Remove the unnecessary boolean literal.(Û™Ñûÿÿÿÿ8­ÇŠ’/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(°úç8®ÇŠ’/
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(Ö§ºËşÿÿÿÿ8áİÀŞ/

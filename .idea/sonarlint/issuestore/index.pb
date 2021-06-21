@@ -9,3 +9,9 @@ v
 Fsrc/academy/devdojo/maratonajava/introducao/Aula02TiposPrimitivos.java,1/c/1cd2610652898120d4816b877b1dde77d2019d73
 q
 Asrc/academy/devdojo/maratonajava/introducao/Aula04Operadores.java,8/a/8a78d9e68f6e03eb2c9df0d5f4c390a7561a1d4c
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java,3/2/327fb0d382b7c314c0c6b1152390681cc394a95d
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java,b/b/bbec25b51642ade9f754d580683df0fb5391dbd9
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java,7/c/7c174170a0d16af4054c4933be0763ba5f7f8449
