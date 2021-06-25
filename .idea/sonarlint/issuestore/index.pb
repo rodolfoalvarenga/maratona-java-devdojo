@@ -15,3 +15,9 @@ Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais01.java
 Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais02.java,b/b/bbec25b51642ade9f754d580683df0fb5391dbd9
 
 Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais03.java,7/c/7c174170a0d16af4054c4933be0763ba5f7f8449
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java,d/c/dcd1f564d2cf5ae1c54a48c4fc55d9b3e8975507
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java,6/3/63350b77be06cdb78c6bd19e02041724631a3136
+
+Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java,a/c/acd9d1a142cc4d6c63991f4d869538b01e4d2e59

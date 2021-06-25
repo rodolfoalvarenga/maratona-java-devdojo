@@ -1,0 +1,23 @@
+
+o
+java:S1192""RDefine a constant instead of duplicating this literal "OpÃ§Ã£o invÃ¡lida" 3 times.(€ş—8±î Ç£/
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(—âÕÂ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰‚§ª
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÈµÒ¨
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÀÆÄıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï¦ü¶
+M	java:S106"9Replace this use of System.out or System.err by a logger.(“ÌÛ$
+M	java:S106"9Replace this use of System.out or System.err by a logger.(§Ş®+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„‚Çªûÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(€ş—
+J
+java:S6212&"/Declare this local variable with "var" instead.(§•½•üÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ñî­
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(§­¦âûÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(€ş—
+J
+java:S62123"/Declare this local variable with "var" instead.(Ñ§¥Ñùÿÿÿÿ
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Ñî­8¼î Ç£/
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(§­¦âûÿÿÿÿ8½î Ç£/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(€ş—8½î Ç£/
