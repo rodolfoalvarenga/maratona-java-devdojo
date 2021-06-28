@@ -31,3 +31,9 @@ Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao03.java
 Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao04.java,0/6/064331976e082f81df8afbaa809dc8b733a7c894
 ~
 Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java,7/3/73d696fca7832171a189ccdc4cd861951eb200a0
+o
+?src/academy/devdojo/maratonajava/introducao/Aula07Arrays01.java,7/9/790281a5513b86197900ca1af9b518b098c3bf27
+o
+?src/academy/devdojo/maratonajava/introducao/Aula07Arrays02.java,f/9/f9ae0f25676f19c4201835fa1c06452f616056ca
+o
+?src/academy/devdojo/maratonajava/introducao/Aula07Arrays03.java,1/9/19a29546028ae3b50a89727885b632768b43a3b4

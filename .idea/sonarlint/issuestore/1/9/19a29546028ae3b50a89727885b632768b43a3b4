@@ -1,0 +1,25 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "numeros2".(ğŒÛô
+P
+java:S1854";Remove this useless assignment to local variable "numeros".(©œË:
+D
+java:S6212"/Declare this local variable with "var" instead.(©œË:
+E
+java:S6212"/Declare this local variable with "var" instead.(ğŒÛô
+J
+java:S6212"/Declare this local variable with "var" instead.(Å±á˜üÿÿÿÿ
+E
+java:S6212
+"/Declare this local variable with "var" instead.(•¨§
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£ßŒ§
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í Âõøÿÿÿÿ
+A
+java:S1481",Remove this unused "numeros" local variable.(©œË:
+C
+java:S1481"-Remove this unused "numeros2" local variable.(ğŒÛô
