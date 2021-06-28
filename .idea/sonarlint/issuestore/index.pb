@@ -21,3 +21,13 @@ Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais04.java
 Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais05.java,6/3/63350b77be06cdb78c6bd19e02041724631a3136
 
 Osrc/academy/devdojo/maratonajava/introducao/Aula05EstruturasCondicionais06.java,a/c/acd9d1a142cc4d6c63991f4d869538b01e4d2e59
+~
+Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao02.java,e/4/e47ecf1c0522a9c64ade7266a9b5eddc2f7e6f4f
+~
+Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao01.java,4/a/4a7430bc961d68b09a785918a4f0abb6bc847efc
+~
+Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao03.java,b/a/bacbe833216b71347dc21e5ce8af3d2bf7fedf66
+~
+Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao04.java,0/6/064331976e082f81df8afbaa809dc8b733a7c894
+~
+Nsrc/academy/devdojo/maratonajava/introducao/Aula06EstruturasDeRepeticao05.java,7/3/73d696fca7832171a189ccdc4cd861951eb200a0
