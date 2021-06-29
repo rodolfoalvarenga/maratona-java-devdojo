@@ -55,3 +55,7 @@ Ssrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.
 Rsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java,5/b/5bf7597c5bfc0357aa92713f4305cd1297fb1ded
 
 Osrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Carro.java,4/8/48a5bd79169d69a1a20b51a415e5dcaa77c4bd3a
+ˆ
+Xsrc/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest01.java,3/1/31833ad97bce404934663981682f77989259410e
+ˆ
+Xsrc/academy/devdojo/maratonajava/javacore/Bintroducaometodos/test/CalculadoraTest02.java,6/8/68cab95e4d22ce980d6e6acada241093cb756bef
