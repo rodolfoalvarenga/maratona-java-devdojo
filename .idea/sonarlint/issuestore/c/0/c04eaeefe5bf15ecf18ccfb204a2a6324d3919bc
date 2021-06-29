@@ -1,0 +1,13 @@
+
+E
+java:S6212"/Declare this local variable with "var" instead.(â—ÇÐ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÍÐÃ‹
+J
+java:S6212
+"/Declare this local variable with "var" instead.(ÛôÂÿüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å÷²çÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¶Éâ”ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(å÷²çÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ñé‡þÿÿÿÿ

@@ -37,3 +37,7 @@ o
 ?src/academy/devdojo/maratonajava/introducao/Aula07Arrays02.java,f/9/f9ae0f25676f19c4201835fa1c06452f616056ca
 o
 ?src/academy/devdojo/maratonajava/introducao/Aula07Arrays03.java,1/9/19a29546028ae3b50a89727885b632768b43a3b4
+€
+Psrc/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimensionais01.java,7/9/79d88f6fe027f0a584df6828f58b12e1cf7550aa
+€
+Psrc/academy/devdojo/maratonajava/introducao/Aula08ArraysMultidimensionais02.java,c/0/c04eaeefe5bf15ecf18ccfb204a2a6324d3919bc
