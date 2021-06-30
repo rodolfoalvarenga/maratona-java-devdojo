@@ -49,8 +49,6 @@ Ssrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Professor.
 Vsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest02.java,7/7/772a6529fe6255c315ed513c5496a4902f41aa5d
 †
 Vsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/EstudanteTest01.java,2/e/2e8c453d5d6f4001fe2ff44c60c4323b20557b6b
-ƒ
-Ssrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/dominio/Estudante.java,b/2/b23134f1bf65d5e5dc42889aa2fa5a2e0ba13817
 ‚
 Rsrc/academy/devdojo/maratonajava/javacore/Aintroducaoclasses/test/CarroTest01.java,5/b/5bf7597c5bfc0357aa92713f4305cd1297fb1ded
 
