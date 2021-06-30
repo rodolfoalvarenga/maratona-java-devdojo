@@ -43,4 +43,23 @@ public class Calculadora {
         System.out.println("numero1: " + numero1);
         System.out.println("numero2: " + numero2);
     }
+
+    public void somaArray(int[] numeros) {
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
+
+    // é Array, forma mais facilitada
+    // se tiver outro parâmetro, tem que ser o último
+    public void somaVarArgs(int... numeros) {
+        int soma = 0;
+        for (int num : numeros) {
+            soma += num;
+        }
+        System.out.println(soma);
+    }
+
 }
