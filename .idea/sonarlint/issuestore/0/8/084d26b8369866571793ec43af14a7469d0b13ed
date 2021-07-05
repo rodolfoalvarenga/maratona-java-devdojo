@@ -1,0 +1,8 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡›éú
+“
+java:S1128"qRemove this unused import 'academy.devdojo.maratonajava.javacore.Bintroducaometodos.dominio.ImpressoraEstudante'.(àÎ¡Îşÿÿÿÿ8àöàò¥/
+L
+java:S6212"/Declare this local variable with "var" instead.(œ¢¬º8½Üàò¥/
+Q
+java:S6212	"/Declare this local variable with "var" instead.(ÁÆ›¯ıÿÿÿÿ8¾Üàò¥/
