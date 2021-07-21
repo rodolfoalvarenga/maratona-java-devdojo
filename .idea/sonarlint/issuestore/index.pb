@@ -95,3 +95,7 @@ Jsrc/academy/devdojo/maratonajava/javacore/Dconstrutores/dominio/Anime.java,9/7
 Tsrc/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/test/AnimeTest01.java,d/1/d120bacdf3ce08dc1156a511bac9adb7eb7e3d5a
 Å
 Qsrc/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.java,c/d/cd4b7222d7345feeffd32649a319b6e365a80ef2
+Ñ
+Tsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.java,6/2/62e126b8ff8a9875d2d7e470e65209bf7a17d0be
+Ñ
+Tsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.java,1/5/15ec2964c57a386b77785952d5b593bcaf5acda1
