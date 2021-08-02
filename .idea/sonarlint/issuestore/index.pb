@@ -99,3 +99,15 @@ Qsrc/academy/devdojo/maratonajava/javacore/Eblocosinicializacao/dominio/Anime.ja
 Tsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/CarroTest01.java,6/2/62e126b8ff8a9875d2d7e470e65209bf7a17d0be
 „
 Tsrc/academy/devdojo/maratonajava/javacore/Fmodificadorestatico/test/AnimeTest01.java,1/5/15ec2964c57a386b77785952d5b593bcaf5acda1
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java,1/3/13ca7a498f9e286e316ba7bf149ec23b5ea2d0f5
+}
+Msrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.java,a/8/a846cfb1a6bd8772fcee29ec50602595a0fd9284
+}
+Msrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest02.java,9/e/9e0479cd635b1455a4f8b882c866eac2b65b06fc
+|
+Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java,e/4/e4732fe817d500c1757d4b43fc934be3bd2a2e55
+y
+Isrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.java,8/2/823fe14cf5cadfa2bc8cd8f51271d186a9e7799e
+|
+Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.java,4/1/417e5ad4c1bdd0ab489a92c78f3aa5230d068eba
