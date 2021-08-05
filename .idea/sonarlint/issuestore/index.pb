@@ -105,9 +105,15 @@ Jsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Jogador.java,1/3
 Msrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest01.java,a/8/a846cfb1a6bd8772fcee29ec50602595a0fd9284
 }
 Msrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest02.java,9/e/9e0479cd635b1455a4f8b882c866eac2b65b06fc
-|
-Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java,e/4/e4732fe817d500c1757d4b43fc934be3bd2a2e55
 y
 Isrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Escola.java,8/2/823fe14cf5cadfa2bc8cd8f51271d186a9e7799e
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/EscolaTest01.java,4/1/417e5ad4c1bdd0ab489a92c78f3aa5230d068eba
+w
+Gsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Time.java,a/6/a6e0a03bfb5913b1b3c22e5f4b60f6fe8cab02f1
+}
+Msrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/JogadorTest03.java,e/f/efa207df83eaecafabe79e9033263822df2060f2
+†
+Vsrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest01.java,3/b/3b03452ad68ec4459e65442edaad5f3cd64d9b06
+†
+Vsrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/LeituraDoTecladoTest02.java,2/b/2b325ec8c918472f92fab4f14a42294792bc3a53
