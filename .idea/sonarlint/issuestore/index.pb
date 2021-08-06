@@ -115,3 +115,7 @@ Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Professor.java,e
 Psrc/academy/devdojo/maratonajava/javacore/Gassociacao/test/AssociacaoTest01.java,4/0/40c9e05014455ef18efa55b931e49b70bfc969e3
 |
 Lsrc/academy/devdojo/maratonajava/javacore/Gassociacao/dominio/Seminario.java,b/5/b540bab151cd339a52c754b6c17b8e1c7d075e0d
+|
+Lsrc/academy/devdojo/maratonajava/javacore/ISobrescrita/test/AnimeTest01.java,9/8/9879775a3eec1ebf7d4cce3d7a0925942ffb9602
+y
+Isrc/academy/devdojo/maratonajava/javacore/ISobrescrita/dominio/Anime.java,3/4/34a02aa38b88efdd3248df90fb4fafe9b6971209
