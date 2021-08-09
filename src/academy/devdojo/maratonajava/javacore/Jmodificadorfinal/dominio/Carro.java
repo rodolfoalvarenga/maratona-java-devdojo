@@ -22,6 +22,10 @@ public class Carro {
         VELOCIDADE_LIMITE_CONSTRUTOR = 300;
     }
 
+    public final void imprime() {
+        System.out.println(this.nome);
+    }
+
     public String getNome() {
         return nome;
     }
