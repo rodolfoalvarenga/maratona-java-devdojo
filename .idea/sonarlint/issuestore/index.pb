@@ -127,3 +127,11 @@ Nsrc/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Carro.java
 Qsrc/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/test/CarroTest01.java,1/f/1ffd0ec226d1bd49e976d2e32df179e7df54fb6f
 €
 Psrc/academy/devdojo/maratonajava/javacore/Jmodificadorfinal/dominio/Ferrari.java,5/6/56c569af76449194657549d127f6cbd8e0feb5a3
+t
+Dsrc/academy/devdojo/maratonajava/javacore/Kenum/dominio/Cliente.java,b/1/b111f2dc839d91e30bf412017fef2eca4f8348f9
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoPagamento.java,3/4/34b039ad5dba764f1ade271cb859da3e8dd70c95
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Kenum/dominio/TipoCliente.java,f/d/fd351c446bfdec83e3198806d98ec1de4596717c
+v
+Fsrc/academy/devdojo/maratonajava/javacore/Kenum/test/ClientTest01.java,8/8/88a4d1f626cda4ed7535db623d6eac0e50473a06
