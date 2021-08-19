@@ -1,12 +1,0 @@
-
-W
-java:S1118":Add a private constructor to hide the implicit public one.(‰¨Ü¶8®¯ñµ/
-S	java:S106	"9Replace this use of System.out or System.err by a logger.(—Íéûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÂŸ¼
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¥†ˆ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü÷Ï¿
-N	java:S106"9Replace this use of System.out or System.err by a logger.(òÅçƒ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(á±„«
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ïÙ¼—ÿÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ü÷Ï¿
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(É°ƒäşÿÿÿÿ
