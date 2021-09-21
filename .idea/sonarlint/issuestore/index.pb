@@ -185,3 +185,11 @@ Wsrc/academy/devdojo/maratonajava/javacore/Npolimorfismo/servico/CalculadoraImpo
 Rsrc/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/RepositorioTeste.java,c/1/c1acde32f9df60f0b839c1f1af1fb953f9c5f071
 
 Osrc/academy/devdojo/maratonajava/javacore/Npolimorfismo/test/ProdutoTest03.java,9/2/92afc373cbf0bc01c7bf38143d17301c2d53843a
+à
+Xsrc/academy/devdojo/maratonajava/javacore/Oexception/error/test/StackOverflowTest01.java,6/a/6ac016f57d969e070bc62061848dd10e0b69e943
+ç
+]src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest01.java,e/2/e280b0747ca477e3056b379661d2e2e9b79889a3
+à
+Xsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest01.java,e/5/e5c2792308b5c6dd195fe0d1a93c645c432492df
+à
+Xsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.java,3/6/360adac59e9a6e954b0bcee2276012faef6933ab
