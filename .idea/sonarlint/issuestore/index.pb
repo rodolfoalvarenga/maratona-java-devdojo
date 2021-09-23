@@ -193,3 +193,15 @@ Xsrc/academy/devdojo/maratonajava/javacore/Oexception/error/test/StackOverflowTe
 Xsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest01.java,e/5/e5c2792308b5c6dd195fe0d1a93c645c432492df
 à
 Xsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/ExceptionTest02.java,3/6/360adac59e9a6e954b0bcee2276012faef6933ab
+ç
+]src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest02.java,5/3/53623db8a2ec5f92bee907badb509157dbc266ce
+ç
+]src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest03.java,f/d/fde2984c9f17eaa43e925228223224a2e13baa84
+y
+Isrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Leitor1.java,a/f/af481eca2572212dd0aed54567b2a421bbfb84ff
+y
+Isrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Leitor2.java,3/f/3fed514c362c498341782ac95766c36377da2126
+è
+_src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java,e/a/ea1d7e2d337ffab5ce02b440cb955551c2fe9a33
+ç
+]src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest04.java,5/8/585817e58bef9c9413accd7e74bbe1699ee4605a
