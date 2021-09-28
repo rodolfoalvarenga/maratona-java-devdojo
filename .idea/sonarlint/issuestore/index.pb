@@ -205,3 +205,7 @@ Isrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Leitor2.java,3/f/
 _src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithResourcesTest01.java,e/a/ea1d7e2d337ffab5ce02b440cb955551c2fe9a33
 ç
 ]src/academy/devdojo/maratonajava/javacore/Oexception/runtime/test/RuntimeExceptionTest04.java,5/8/585817e58bef9c9413accd7e74bbe1699ee4605a
+à
+Xsrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/LoginInvalidoException.java,f/f/ff2afdd47f2221d482b01b3d60a9a8db5ecab195
+ï
+esrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java,f/c/fc45c8dad586508fcb85e4f1a5cb51156a357ed8
