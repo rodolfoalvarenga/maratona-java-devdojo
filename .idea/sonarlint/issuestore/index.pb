@@ -209,3 +209,11 @@ _src/academy/devdojo/maratonajava/javacore/Oexception/exception/test/TryWithReso
 Xsrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/LoginInvalidoException.java,f/f/ff2afdd47f2221d482b01b3d60a9a8db5ecab195
 •
 esrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/LoginInvalidoExceptionTest01.java,f/c/fc45c8dad586508fcb85e4f1a5cb51156a357ed8
+–
+fsrc/academy/devdojo/maratonajava/javacore/Oexception/exception/test/SobrescritaComExceptionTest01.java,6/f/6f35035c3f1af9e9e1375c6e38a43b6241afc5ff
+}
+Msrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Funcionario.java,d/b/db4870c278b637a54c7a8e93d43966916d536c85
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Pessoa.java,3/b/3b08cf97005d5900e8ee6f1101425b1c9a8f002f
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.java,9/1/911a7e073a80266d620086a8720272b6b8201ba0
