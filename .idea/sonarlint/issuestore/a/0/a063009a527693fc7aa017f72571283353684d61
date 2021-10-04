@@ -1,0 +1,21 @@
+
+E
+java:S2201	"*The return value of "concat" must be used.(þÛñ—øÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ò–Ÿƒþÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿ8È’ÝåÂ/
+]	java:S125"<This block of commented-out lines of code should be removed.(Ê‹¶Ïüÿÿÿÿ8Ù–°æÂ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æ¬‡¯ÿÿÿÿÿ8“ßâåÂ/
+=
+java:S2129" Remove this "String" constructor(ÓÁ‘â8³»èåÂ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®çë‹ùÿÿÿÿ8¹îìåÂ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(žóÔ8ÃˆÿåÂ/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "William" 3 times.(´ÃšÓýÿÿÿÿ8ÐóéåÂ/
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(æ¬‡¯ÿÿÿÿÿ
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(®çë‹ùÿÿÿÿ8°¥íåÂ/
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(žóÔ8ÐˆÿåÂ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šóžÊûÿÿÿÿ

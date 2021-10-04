@@ -217,3 +217,17 @@ x
 Hsrc/academy/devdojo/maratonajava/javacore/Oexception/dominio/Pessoa.java,3/b/3b08cf97005d5900e8ee6f1101425b1c9a8f002f
 z
 Jsrc/academy/devdojo/maratonajava/javacore/Pwrapper/test/WrapperTest01.java,9/1/911a7e073a80266d620086a8720272b6b8201ba0
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringTest02.java,f/3/f3581c7dd128bf93a9c2e81696bd400aaf0d0e9a
+ƒ
+Ssrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringPerformanceTest01.java,8/6/868110fb17df84d637372370b7ecf43c06b642ed
+
+Osrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringBuilderTest01.java,5/b/5b1a770f47a78af28b201e22f38244f7b3f15dd0
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Qstring/test/StringTest01.java,a/0/a063009a527693fc7aa017f72571283353684d61
+y
+Isrc/academy/devdojo/maratonajava/javacore/Rdatas/test/CalendarTest01.java,c/7/c7db8b8617ed9fcb841066b6baaeae2501657f48
+u
+Esrc/academy/devdojo/maratonajava/javacore/Rdatas/test/DateTest01.java,9/f/9f83fbae2da0194a0a8c51fdf70ac997af26665d
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Rdatas/test/DateFormatTest01.java,a/6/a61418f42a01a4303a07889a3d43eba4af5baff3
