@@ -239,5 +239,3 @@ Psrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.jav
 Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest01.java,a/3/a30c23c4bc6153be24f4dd5210caf0e94137fe61
 ‚
 Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest02.java,b/d/bd4b15284ca54e1c4a3b2c3fb2a09d95d64cd80f
-†
-Vsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.java,e/0/e053bfc6b98b42214310ef54228e2384ba49c87f
