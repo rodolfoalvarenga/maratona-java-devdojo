@@ -230,4 +230,14 @@ Isrc/academy/devdojo/maratonajava/javacore/Rdatas/test/CalendarTest01.java,c/7/
 u
 Esrc/academy/devdojo/maratonajava/javacore/Rdatas/test/DateTest01.java,9/f/9f83fbae2da0194a0a8c51fdf70ac997af26665d
 {
-Ksrc/academy/devdojo/maratonajava/javacore/Rdatas/test/DateFormatTest01.java,a/6/a61418f42a01a4303a07889a3d43eba4af5baff3
+Ksrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocalTest01.java,b/f/bf4479b8f63574a4a7ef9a2544fcb9c5717433ea
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/LocalTest02.java,3/8/38edc0e64105dd82f9fc34ebb2e35a0b368c1659
+€
+Psrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.java,4/5/457e02678f5d9a1b2df65a3779607826a0629c6a
+‚
+Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest01.java,a/3/a30c23c4bc6153be24f4dd5210caf0e94137fe61
+‚
+Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest02.java,b/d/bd4b15284ca54e1c4a3b2c3fb2a09d95d64cd80f
+†
+Vsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.java,e/0/e053bfc6b98b42214310ef54228e2384ba49c87f
