@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ê–å øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ…âçúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ã¨£
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ù¤Áøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÆ­üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹˜‡Öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(âŞ€¡ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úÑÂÄüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(İÄ‚Éıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÍËÔ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Û©º
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø›çÚ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ôìªéşÿÿÿÿ8í”¹‚Å/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(äùö¯8ïÉ¹‚Å/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷8¯›»‚Å/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(õ¿ìû8ì¾‚Å/
+I
+java:S2201 "-The return value of "plusWeeks" must be used.(£Ùn8™Ì‚Å/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(õ¿ìû8ßŸÃ‚Å/
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(µ’£Ëüÿÿÿÿ8àŸÃ‚Å/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(¼éµ¹şÿÿÿÿ8ŠÇÌ‚Å/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ù 

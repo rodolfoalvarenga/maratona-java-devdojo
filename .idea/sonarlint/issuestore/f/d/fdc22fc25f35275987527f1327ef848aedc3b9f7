@@ -1,0 +1,12 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(º²ëöøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ãÚŞëşÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.( Ê—şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²¨ç÷
+V	java:S125"<This block of commented-out lines of code should be removed.(è¬Úæşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûÛÏçùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûŞ”‚ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(úèù™
+G
+java:S1128",Remove this unused import 'java.time.Month'.(¤‚Éøÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷Ù 

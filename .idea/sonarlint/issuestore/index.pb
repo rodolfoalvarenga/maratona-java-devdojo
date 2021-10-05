@@ -239,3 +239,11 @@ Psrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateFormatTest01.jav
 Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest01.java,a/3/a30c23c4bc6153be24f4dd5210caf0e94137fe61
 ‚
 Rsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/NumberFormatTest02.java,b/d/bd4b15284ca54e1c4a3b2c3fb2a09d95d64cd80f
+†
+Vsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/SimpleDateFormatTest01.java,e/0/e053bfc6b98b42214310ef54228e2384ba49c87f
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/LocalDateTest01.java,f/1/f179079134bf16cd2ea39b3816b8be5480a1a49c
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/LocalTimeTest01.java,0/8/08ef1ef73227c8ae9c280a8330bfbae7d7a6ae66
+~
+Nsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/LocalDateTimeTest01.java,f/d/fdc22fc25f35275987527f1327ef848aedc3b9f7
