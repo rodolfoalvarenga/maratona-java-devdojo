@@ -13,11 +13,11 @@ public class DurationTest01 {
         // Duration não aceita LocalDate porque esta não tem segundos
 
         LocalDateTime now = LocalDateTime.now();
-        LocalDateTime nowAfterYears = LocalDateTime.now().plusYears(2).plusMinutes(8);
+        LocalDateTime nowAfterTwoYears = LocalDateTime.now().plusYears(2).plusMinutes(8);
         LocalTime timeNow = LocalTime.now();
         LocalTime timeMinus7Hours = LocalTime.now().minusHours(7);
 
-        Duration d1 = Duration.between(now, nowAfterYears);
+        Duration d1 = Duration.between(now, nowAfterTwoYears);
         System.out.println(d1);
 
         Duration d2 = Duration.between(timeNow, timeMinus7Hours);
