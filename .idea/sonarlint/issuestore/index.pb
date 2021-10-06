@@ -247,3 +247,11 @@ z
 Jsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/LocalTimeTest01.java,0/8/08ef1ef73227c8ae9c280a8330bfbae7d7a6ae66
 ~
 Nsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/LocalDateTimeTest01.java,f/d/fdc22fc25f35275987527f1327ef848aedc3b9f7
+x
+Hsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/InstantTest01.java,0/d/0d1e41c9aa6ef8d0be4c9d8917ca089feab06d77
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Rdatas/test/ChronoUnitTest01.java,8/5/85de0ef91f3152819f2b1dbaccc7093c4000eadb
+w
+Gsrc/academy/devdojo/maratonajava/javacore/Rdatas/test/PeriodTest01.java,4/b/4b801d80283e70dbd3b19437b698e5b3b445a063
+y
+Isrc/academy/devdojo/maratonajava/javacore/Rdatas/test/DurationTest01.java,f/e/fe405ef8cf9da947311fd6d08fd608ed009c7430
