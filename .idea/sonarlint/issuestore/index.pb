@@ -271,3 +271,7 @@ Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest01.java
 Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest02.java,f/4/f48692e069db7b3a311a44dcd546769d22756bbb
 
 Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest03.java,4/9/490824db91f507784ecae348494c93e4c97bc10b
+
+Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest05.java,2/b/2bc28ff7e50aae1f680e40f755353a22be25df54
+
+Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java,c/6/c6ca6178431d882d6f2846151d139004e3d396d5

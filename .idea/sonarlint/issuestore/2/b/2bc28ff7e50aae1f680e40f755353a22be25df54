@@ -1,0 +1,13 @@
+
+M	java:S106"9Replace this use of System.out or System.err by a logger.(™™ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦Û¥§
+g
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ò—ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ¶…’şÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(«‰š„
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(µöûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(åÂÈ¹úÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÜØøÑ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(óÇ„ä
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÙÓøşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ»ğûÿÿÿÿ
