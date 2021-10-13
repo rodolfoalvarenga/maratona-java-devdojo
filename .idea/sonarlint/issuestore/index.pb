@@ -265,3 +265,9 @@ G
 Wsrc/academy/devdojo/maratonajava/javacore/Sformatacao/test/DateTimeFormatterTest01.java,b/b/bb781802b614b2f7942cf02c6de319309c140d13
 ƒ
 Ssrc/academy/devdojo/maratonajava/javacore/Tresourcebundle/ResourceBundleTest01.java,f/a/fa3ccf4ae1b2195820d0e4a6ad0f4bc34b95a225
+
+Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest01.java,1/0/10ecbe4fe0006ecf3adab463f4ed5ee654c25640
+
+Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest02.java,f/4/f48692e069db7b3a311a44dcd546769d22756bbb
+
+Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest03.java,4/9/490824db91f507784ecae348494c93e4c97bc10b
