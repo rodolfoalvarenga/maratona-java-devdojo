@@ -275,3 +275,9 @@ Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest03.java
 Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest05.java,2/b/2bc28ff7e50aae1f680e40f755353a22be25df54
 
 Osrc/academy/devdojo/maratonajava/javacore/Uregex/test/PatternMatcherTest04.java,c/6/c6ca6178431d882d6f2846151d139004e3d396d5
+{
+Ksrc/academy/devdojo/maratonajava/javacore/Ycolecoes/dominio/Smartphone.java,f/8/f8e3172ef32df85b89baf58bb31d1611d1bc42c1
+z
+Jsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/EqualsTest01.java,1/f/1f5ebfc571c16df48f039a9ba45e77ada1931e34
+‚
+Rsrc/academy/devdojo/maratonajava/javacore/Ycolecoes/test/SmartphoneListTest01.java,d/6/d66721841e004928c6e1671d45d2d3323c05c0ee
